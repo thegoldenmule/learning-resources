@@ -110,6 +110,7 @@
 - [Shaping Young Minds with Agile Thinking](https://medium.com/geekculture/shaping-young-minds-with-agile-thinking-33b63ccd3c12)
 - [The Binary Search Methodology](https://medium.com/codex/the-binary-search-methodology-3cd21fc66531)
 - [Take the Time to Write Less Code](https://medium.com/codex/take-the-time-to-write-less-code-1bf0ab385a38)
+- [Rebase (The Complete Guide to Rebasing in Git](https://rebase-book.com/)
 
 ## Containerization
 
