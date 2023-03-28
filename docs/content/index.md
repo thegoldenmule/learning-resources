@@ -24,6 +24,7 @@
 ### C#
 
 - [Effective C#: 50 Specific Ways to Improve Your C#](https://www.amazon.com/Effective-Covers-Content-Update-Program/dp/0672337878/)
+- [More Effective C#: 50 More Ways to Improve Your C#](https://www.amazon.com/More-Effective-Specific-Software-Development/dp/0672337886/)
 - [Concurrency in .NET](https://www.amazon.com/Concurrency-NET-patterns-concurrent-programming/dp/1617292990)
 - [Asynchronous Programming with Async/Await](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 - [The Stack is an Implementation Detail](https://docs.microsoft.com/en-us/archive/blogs/ericlippert/the-stack-is-an-implementation-detail-part-one)
